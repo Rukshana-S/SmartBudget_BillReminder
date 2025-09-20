@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Smart Budget & Bill Reminder App
 
 A **Java console application** to manage your finances, track expenses, add bills, and generate reports.  
@@ -57,3 +58,6 @@ java SmartBudgetApp
 ## License
 
 MIT License
+=======
+# Smart_Budget_App
+>>>>>>> 59b2499956c2cf6a49dac19287e4d964a30c57df
